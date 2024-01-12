@@ -1,4 +1,4 @@
-# Adventure
+# Spoon
 A simple framework for Spigot and Velocity made to
 communicate between plugins and servers (Both Bukkit and Velocity at the same time!).
 
