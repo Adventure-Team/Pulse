@@ -13,4 +13,4 @@ You can then add Repository and Dependency with your desired dependency manager.
 
 
 # Using the API
-Refer to our Wiki: [https://will0mane.gitbook.io/adventure/](https://pulsewiki.willomane.com/)https://pulsewiki.willomane.com/
+Refer to our Wiki: https://pulsewiki.willomane.com/
